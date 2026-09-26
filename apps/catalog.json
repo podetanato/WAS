@@ -9,5 +9,14 @@
       "zipFile": "app.zip",
       "entry": "index.html"
     }
+    {
+      "id": "energy-core",
+      "name": "ENERGY CORE",
+      "icon": "⚡",
+      "description": "まあまあいい出来のクリッカー。",
+      "version": "1.0.0",
+      "zipFile": "app.zip",
+      "entry": "index.html"
+    }
   ]
 }
