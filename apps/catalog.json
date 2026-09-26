@@ -17,6 +17,15 @@
       "version": "1.0.0",
       "zipFile": "app.zip",
       "entry": "index.html"
+    },
+    {
+      "id": "taxi",
+      "name": "Taxi simulator",
+      "icon": "🚕",
+      "description": "AI製の車ゲーム。動くかどうかは未知数。",
+      "version": "1.0.0",
+      "zipFile": "app.zip",
+      "entry": "index.html"
     }
   ]
 }
