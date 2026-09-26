@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "neon-house",
+      "name": "Neon House",
+      "icon": "🎰",
+      "description": "かなり本格的なカジノ+ローグライクゲーム。",
+      "version": "1.0.0",
+      "zipFile": "app.zip",
+      "entry": "index.html"
+    }
+  ]
+}
