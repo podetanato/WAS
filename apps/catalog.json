@@ -30,9 +30,9 @@
     {
       "id": "emu",
       "name": "DS emu",
-      "icon": "🚕",
-      "description": "Gitに転がってたDSエミュレーター。たぶん動く",
-      "version": "1.0.0",
+      "icon": "🎮",
+      "description": "Gitに転がってたDSエミュレーター。たぶん動かない",
+      "version": "1.0.1",
       "zipFile": "app.zip",
       "entry": "index.html"
     }
